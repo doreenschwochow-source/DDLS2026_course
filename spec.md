@@ -2,7 +2,7 @@
 
 ## Decision needed
 
-The owner needs a defensible six-mutation SOD1 shortlist: one deliberately disruptive/verification control and five exploratory mutations. The exploratory changes should be intended to preserve normal SOD1 activity while testing aggregation-related or abnormal cellular-binding/cell-toxicity effects. The owner has a six-mutation mutagenesis budget.
+The owner needs a defensible six-mutation SOD1 shortlist: one deliberately disruptive/verification control and five exploratory mutations. The exploratory changes should be intended to preserve normal SOD1 activity while testing aggregation-related or abnormal cellular-binding/cell-toxicity effects. Allocate approximately 2–3 exploratory mutations to aggregation-related surface chemistry and 2–3 exploratory mutations to abnormal cellular interactions/cell toxicity. The owner has a six-mutation mutagenesis budget.
 
 ## Protein and assembly
 
@@ -22,7 +22,7 @@ The owner needs a defensible six-mutation SOD1 shortlist: one deliberately disru
 
 ## Exact owner claim and relevant residues/parts
 
-The owner is making the working claim that five exploratory mutations can perturb aggregation or abnormal cellular interactions/cell toxicity while preserving normal SOD1 activity, plus one known destabilizing control can demonstrate assay sensitivity. The owner wants outside-facing, confidently modelled residues, away from the six metal-binding histidines—His46, His48, His63, His71, His80, and His120—away from the Cys57–Cys146 disulfide context, important structural loops, and likely dimer-contact regions. The transcript proposes three aggregation-related and three abnormal-cellular-binding probes, but the final six include one control and five exploratory positions.
+The owner is making the working claim that five exploratory mutations can perturb aggregation or abnormal cellular interactions/cell toxicity while preserving normal SOD1 activity, plus one known destabilizing control can demonstrate assay sensitivity. The five exploratory mutations should be allocated approximately as 2–3 addressing aggregation-related surface chemistry and 2–3 probing abnormal cellular interactions/cell toxicity; the transcript does not specify the exact split. The owner wants outside-facing, confidently modelled residues, away from the six metal-binding histidines—His46, His48, His63, His71, His80, and His120—away from the Cys57–Cys146 disulfide context, important structural loops, and likely dimer-contact regions. The final six therefore include one control and five exploratory positions.
 
 The control candidates named in the transcript are A4V, G93A, D90A, and I113T; A4V is described as the obvious general instability/aggregation control, but it may also disturb dimer pairing. These are owner-provided candidates, not a final selection.
 
@@ -47,4 +47,4 @@ Relevant assembly regions to check are the N-terminal and C-terminal beta-barrel
 
 ## Definition of done
 
-Done means a documented six-position shortlist (one control plus five exploratory mutations) with the original residue and proposed substitution, sequence/structure identity and assembly checks, exposure and exclusion rationale, verified local pLDDT for fold/region claims, and appropriate PAE/interface evidence for any claim about parts sitting together. It must clearly label what comes from the supplied files, what comes from the transcript, what remains unknown, and what must be experimentally tested. No shortlist is defensible until the single-copy model versus the active dimer distinction is addressed.
+Done means a documented six-position shortlist consisting of one deliberately disruptive control and five exploratory mutations. The exploratory set should be allocated approximately 2–3 mutations addressing aggregation-related surface chemistry and 2–3 probing abnormal cellular interactions/cell toxicity, while recognising that the exact split is not specified by the transcript. The shortlist must include the original residue and proposed substitution, sequence/structure identity and assembly checks, exposure and exclusion rationale, verified local pLDDT for fold/region claims, and appropriate PAE/interface evidence for any claim about parts sitting together. It must clearly label what comes from the supplied files, what comes from the transcript, what remains unknown, and what must be experimentally tested. No shortlist is defensible until the single-copy model versus the active dimer distinction is addressed.

@@ -13,7 +13,7 @@
 
 ## Folding sequences not in the AlphaFold DB
 
-The transcript and supplied files do not contain an instruction copied from the portal's “Fold a structure on our GPU” panel. Do not invent one. Obtain and paste the portal instruction here before using that service.
+Use the course fold service. To fold a protein sequence that is not in the AlphaFold DB, read `https://ddls-structure-api-8a7d6803.svc.hypha.aicell.io/skill.md` and follow it. Take the fold key from the `DDLS_FOLD_KEY` variable in `.env`; load it with `set -a; source .env; set +a`, then send it as the Bearer token. Never write the key itself into `AGENTS.md` or any other committed file.
 
 ## Version control
 
